@@ -4,8 +4,6 @@
 
 💻 I enjoy programming to solve real-world issues and create fun games
 
-⚽️ I love playing and coaching soccer
-
 
 
 <!--
