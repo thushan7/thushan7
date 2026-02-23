@@ -1,6 +1,6 @@
 ### Hey! I'm Thushan Subaskody 👋
 
-📚 I'm a third-year Computer Science student at the University of Guelph
+📚 I'm a fourth-year Computer Science student at the University of Guelph
 
 💻 I enjoy programming to solve real-world issues and create fun games
 
